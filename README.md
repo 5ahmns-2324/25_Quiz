@@ -22,11 +22,6 @@ https://github.com/5ahmns-2324/25_Quiz/assets/91070191/7695e88e-b379-4020-9c22-f
 https://github.com/5ahmns-2324/25_Quiz/assets/91070191/7695e88e-b379-4020-9c22-f87fb69aab4f
 
 
-
-
-
-**Videoeinblick:** Siehe Teams: 4ahmns-SoSem-2223-PREPMEES -> Dateien -> Videos-Endabgabe -> 10_CSchrofner_FinalGameplay
-
 ### Drittmaterial: 
 + **Background music:** https://www.youtube.com/watch?v=BxarqHPmMIM
 + **Right Answer Sound:** https://www.youtube.com/watch?v=ZvlvhIpcflA
