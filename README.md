@@ -12,16 +12,20 @@ c# 25-CSchrofner_Quiz
 
 ### Visuelle Einblicke in das Projekt: 
 + Video:
-https://github.com/5ahmns-2324/25_Quiz/assets/91070191/7695e88e-b379-4020-9c22-f87fb69aab4f
+
+https://github.com/5ahmns-2324/25_Quiz/assets/91070191/ce9d078d-4675-455e-af53-f58a7ef9f228
+
 
 + Screenshots:
-![1](https://github.com/5ahmns-2324/25_Quiz/assets/91070191/d454a582-0fb6-4639-800f-3840d13feb59)
-![2](https://github.com/5ahmns-2324/25_Quiz/assets/91070191/40ba0118-1e64-4f8e-a82c-8dd50107245d)
-![3](https://github.com/5ahmns-2324/25_Quiz/assets/91070191/3e7dd361-15ec-4789-b811-dc6a052845e6)
-![4](https://github.com/5ahmns-2324/25_Quiz/assets/91070191/dc4de503-bf4c-4499-b48f-44a5e045e2be)
+![4](https://github.com/5ahmns-2324/25_Quiz/assets/91070191/bcaeb62a-793a-476f-be8d-0083bc328dfa)
+![3](https://github.com/5ahmns-2324/25_Quiz/assets/91070191/1bbb2417-770e-4d84-b6a4-00a7d536737e)
+![2](https://github.com/5ahmns-2324/25_Quiz/assets/91070191/15da4022-5b3e-4cbc-9a1c-d2e555cc9ad4)
+![1](https://github.com/5ahmns-2324/25_Quiz/assets/91070191/ad3c3f63-f828-47dc-9a46-a67ad6628f38)
 
 ### Videoeinblick: 
-https://github.com/5ahmns-2324/25_Quiz/assets/91070191/7695e88e-b379-4020-9c22-f87fb69aab4f
+https://github.com/5ahmns-2324/25_Quiz/assets/91070191/719c33c2-01b3-436b-bf05-a2baf5e43431
+
+
 
 
 ### Drittmaterial: 
