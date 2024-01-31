@@ -14,6 +14,7 @@ public class Gamemanager : MonoBehaviour
     public Text timerText;
     public Text scoreText;
     public Image questionImage;
+    public Text questionNumberText;
 
     public AudioSource correctAnswerSound;
     public AudioSource wrongAnswerSound;
@@ -80,7 +81,8 @@ public class Gamemanager : MonoBehaviour
         nextQuestionButton.onClick.AddListener(NextQuestion);
 
         restartButton.GetComponent<Button>().onClick.AddListener(RestartGame);
-        restartButton.SetActive(false); 
+        restartButton.SetActive(false);
+        questionNumberText.text = "Frage 1";
     }
 
     void Update()
@@ -217,7 +219,7 @@ public class Gamemanager : MonoBehaviour
 
         if (scoreDisplayText != null)
         {
-            scoreDisplayText.text = "YOUR SCORE: " + correctAnswersCount + " / " + questions.Length;
+            scoreDisplayText.text =  correctAnswersCount + "|" + questions.Length;
         }
 
         restartButton.SetActive(true); 
@@ -245,7 +247,7 @@ public class Gamemanager : MonoBehaviour
         if (currentQuestionIndex < questions.Length)
         {
             selectedAnswers.Clear();
-            evaluationDone = false; 
+            evaluationDone = false;
 
             for (int i = 0; i < answerButtons.Length; i++)
             {
@@ -254,6 +256,8 @@ public class Gamemanager : MonoBehaviour
             }
 
             DisplayQuestion();
+
+            questionNumberText.text = "Frage " + (currentQuestionIndex + 1);
         }
         else
         {
@@ -262,6 +266,7 @@ public class Gamemanager : MonoBehaviour
             Debug.Log("Alle Fragen beantwortet!");
         }
     }
+
 
     void UpdateScoreText()
     {
