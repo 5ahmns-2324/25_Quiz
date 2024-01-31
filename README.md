@@ -48,5 +48,5 @@ https://github.com/5ahmns-2324/25_Quiz/assets/91070191/7695e88e-b379-4020-9c22-f
 - [x] Endscreen
 - [x] Audio
 
-**Copyright by Christoph Schrofner**
+*Copyright by Christoph Schrofner :)*
 
