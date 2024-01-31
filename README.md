@@ -11,8 +11,10 @@ c# 25-CSchrofner_Quiz
 + Unity 2020.3.18f1
 
 ### Visuelle Einblicke in das Projekt: 
-### Videoeinblick: 
++ Video:
 https://github.com/5ahmns-2324/25_Quiz/assets/91070191/7695e88e-b379-4020-9c22-f87fb69aab4f
+
++ Screenshots:
 ![1](https://github.com/5ahmns-2324/25_Quiz/assets/91070191/d454a582-0fb6-4639-800f-3840d13feb59)
 ![2](https://github.com/5ahmns-2324/25_Quiz/assets/91070191/40ba0118-1e64-4f8e-a82c-8dd50107245d)
 ![3](https://github.com/5ahmns-2324/25_Quiz/assets/91070191/3e7dd361-15ec-4789-b811-dc6a052845e6)
