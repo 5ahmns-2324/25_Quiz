@@ -1,8 +1,8 @@
 
-c# CSchrofner_Quiz
+c# 25-CSchrofner_Quiz
 
 ### Projektbeschreibung: 
-+ Dieses Projekt beinhaltet ein Quiz mit 10 Fragen, bei dem die Teilnehmer innerhalb von 15 Sekunden aus drei zufällig angeordneten Antwortmöglichkeiten wählen. Einige Fragen haben mehrere richtige Antworten und die Reihenfolge der Fragen und Antworten variiert jedes Mal. 
++ Dieses Projekt beinhaltet ein Quiz mit 10 Fragen, bei dem die Teilnehmer innerhalb von 15 Sekunden aus drei zufällig angeordneten Antwortmöglichkeiten wählen. Einige Fragen haben mehrere richtige Antworten und die Reihenfolge der Fragen und Antworten variiert jedes Mal.
 
 
 ### Entwicklungsplattform:
@@ -27,8 +27,10 @@ https://github.com/5ahmns-2324/25_Quiz/assets/91070191/7695e88e-b379-4020-9c22-f
 + **Right Answer Sound:** https://www.youtube.com/watch?v=ZvlvhIpcflA
 + **Wrong Answer Sound:** https://www.youtube.com/watch?v=qeZpgFzmcDI
 + **Click Sound:** https://www.youtube.com/watch?v=Uzj3CD0FUhA
++ **Win Music:** https://www.youtube.com/watch?v=JkxMt3owocQ&list=LL&index=6
 + **Font:** https://fonts.google.com/specimen/Montserrat
 + **Icons:** https://www.flaticon.com/
+  
   
 ### Anforderungsliste  
 - [x] Antwortmöglichkeiten
@@ -43,4 +45,6 @@ https://github.com/5ahmns-2324/25_Quiz/assets/91070191/7695e88e-b379-4020-9c22-f
 - [x] Bilder
 - [x] Endscreen
 - [x] Audio
+
+**Copyright by Christoph Schrofner**
 
