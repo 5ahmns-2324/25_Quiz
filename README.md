@@ -8,7 +8,7 @@ c# 25-CSchrofner_Quiz
 ### Entwicklungsplattform:
 + Windows 10
 + Visual Studio 2019
-+ Unity 2020.3.18f1
++ Unity 2022.1.9f1
 
 ### Visuelle Einblicke in das Projekt: 
 + Video:
